@@ -31,7 +31,7 @@
 
   O digamos que busca un juego Pacman en línea y dibuje un joystick con un lápiz. Entonces puedes jugar a Pacman tocando el dibujo. 
 
-  El kit incluye todo lo que necesita: Meow Meow, cable caiman, cable USB. 
+  El kit incluye todo lo que necesita: Michi Board, cable caiman, cable USB. 
 
   
 ## Manual
