@@ -5,7 +5,7 @@
 </a>
 
 
-  Michi es una tarjeta electrónica diseñada por Electronic Cats  que simula algunas teclas configurables del teclado y mouse.  La Michitiene la característica de poder conectar cualquier material que conduzca la electricidad convirtiendo estos objetos en paneles táctiles. 
+  Michi es una tarjeta electrónica diseñada por Electronic Cats  que simula algunas teclas configurables del teclado y mouse.  La Michi tiene la característica de poder conectar cualquier material que conduzca la electricidad convirtiendo estos objetos en paneles táctiles. 
 
   Es un kit de experimentos para principiantes y expertos que buscan interactuar entre mundo real y la tecnología. La Michi puede cubrir las áreas de artes plásticas, artes visuales, música, deporte, ingeniería e  incluso rehabilitación física.
 
