@@ -451,8 +451,8 @@ void sendMouseMovementEvents() {
   byte left = 0;
   byte down = 0;
   byte up = 0;
-  byte horizmotion = 0;
-  byte vertmotion = 0;
+  int horizmotion = 0;
+  int vertmotion = 0;
 
   mouseMovementCounter++;
   mouseMovementCounter %= MOUSE_MOTION_UPDATE_INTERVAL;
