@@ -5,38 +5,37 @@
 </a>
 
 
-  Michi es una tarjeta electrónica diseñada por Electronic Cats  que simula algunas teclas configurables del teclado y mouse.  La Michi tiene la característica de poder conectar cualquier material que conduzca la electricidad convirtiendo estos objetos en paneles táctiles. 
+  Michi is an electronic board designed by Electronic Cats that simulates some configurable keyboard and mouse keys.  The Michi has the feature of being able to connect any material that conducts electricity turning these objects into touch panels. 
 
-  Es un kit de experimentos para principiantes y expertos que buscan interactuar entre mundo real y la tecnología. La Michi puede cubrir las áreas de artes plásticas, artes visuales, música, deporte, ingeniería e  incluso rehabilitación física.
+  It is an experiment kit for beginners and experts looking to interact between the real world and technology. The Michi can cover the areas of plastic arts, visual arts, music, sports, engineering and even physical rehabilitation.
 
-## ¿Para quién es Michi? 
+## For whom is Michi? 
 
-  Personas de 6 años en adelante, educadores, artistas, ingenieros, diseñadores, inventores y creadores. 
+  People 6 years and older, educators, artists, engineers, designers, inventors and creators. 
 
-## ¿Cómo funciona? 
+## How does it work?
 
-  El Michi utiliza conmutación de alta resistencia para detectar cuándo ha realizado una conexión incluso con materiales que no son muy conductores (como hojas, pasta o personas). Esta técnica atrae, Michi también puede actuar como un teclado o un mouse. Hay 10 entradas en la parte frontal de la placa, que se pueden unir a través de cables caimán o cualquier otro método que se te ocurra. Hay otras 5 entradas en la parte posterior, 3 para las teclas del teclado y 2 para el movimiento del mouse, a las que se puede acceder con jumpers.
+  The Michi uses high resistance switching to detect when it has made a connection even with materials that are not very conductive (such as leaves, pasta or people). This technique attracts, Michi can also act as a keyboard or mouse. There are 10 inputs on the front of the board, which can be linked via alligator wires or any other method you can think of. There are another 5 inputs on the back, 3 for keyboard keys and 2 for mouse movement, which can be accessed with jumpers.
 
-  Cuando tocas la manzana, haces una conexión, y Michi envía a la computadora un mensaje de teclado. La computadora ve a Michi como un teclado (o mouse) comun y corriente. Por lo tanto, funciona con todos los programas, sistemas operativos y páginas web, ya que todos los programas y páginas web reciben información del teclado y el mouse.
+  When you touch the apple, you make a connection, and Michi sends the computer a keyboard message. The computer sees Michi as an ordinary keyboard (or mouse). Therefore, it works with all programs, operating systems and web pages, since all programs and web pages receive information from the keyboard and mouse.
 
-## ¿Qué materiales funcionan con Michi? 
+## What materials work with Michi?
 
-  Cualquier material que pueda conducir un poco de electricidad funcionará. Aquí hay algunos materiales que las personas han usado en nuestros talleres: Ketchup o salsa de tomate, Grafito a lápiz, Finger Paint, Limones, etc.
+  Any material that can conduct a little electricity will work. Here are some materials that people have used in our workshops: Ketchup or tomato sauce, Pencil Graphite, Finger Paint, Lemons, etc.
 
-  Otros materiales que funcionan muy bien: plantas, monedas, cubiertos, todo lo que está mojado, la mayoría de los alimentos, papel de aluminio, agua y cientos de cosas que no hemos probado
+  Other materials that work very well: plants, coins, silverware, anything wet, most foods, aluminum foil, water, and hundreds of things we haven't tried.
 
-## ¿Qué puedo hacer?
+## What can I do?
 
-  ¡Eso depende de ti! Primero, cargue un programa de computadora o cualquier página web. Digamos que cargas un piano. Luego, en lugar de usar los botones del teclado de la computadora para tocar el piano, puede conectar Michi a algo divertido, como bananas, y las bananas se convierten en las teclas de su piano. 
+  That's up to you! First, load a computer program or any web page. Let's say you load a piano. Then, instead of using the buttons on the computer keyboard to play the piano, you can connect Michi to something fun, like bananas, and the bananas become your piano keys. 
 
-  O digamos que busca un juego Pacman en línea y dibuje un joystick con un lápiz. Entonces puedes jugar a Pacman tocando el dibujo. 
-
-  El kit incluye todo lo que necesita: Michi Board, cable caiman, cable USB. 
+  Or let's say you search for a Pacman game online and draw a joystick with a pencil. Then you can play Pacman by touching the drawing. 
+  The kit includes everything you need: Michi Board, alligator cable, USB cable.
 
   
 ## Manual
 
-Visita nuestra Wiki donde podras encontrar el manual 📖: [Wiki](https://github.com/ElectronicCats/michi/wiki)
+Visit our Wiki where you can find the manual 📖: [Wiki](https://github.com/ElectronicCats/michi/wiki)
 
 ## Licence
 
