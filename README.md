@@ -17,7 +17,7 @@
 
   The Michi uses high resistance switching to detect when it has made a connection even with materials that are not very conductive (such as leaves, pasta or people). This technique attracts, Michi can also act as a keyboard or mouse. There are 10 inputs on the front of the board, which can be linked via alligator wires or any other method you can think of. There are another 5 inputs on the back, 3 for keyboard keys and 2 for mouse movement, which can be accessed with jumpers.
 
-  When you touch the apple, you make a connection, and Michi sends the computer a keyboard message. The computer sees Michi as an ordinary keyboard (or mouse). Therefore, it works with all programs, operating systems and web pages, since all programs and web pages receive information from the keyboard and mouse.
+  For example, when you connect and touch an apple, you make a connection, and Michi sends the computer a keyboard message. The computer sees Michi as an ordinary keyboard (or mouse). Therefore, it works with all programs, operating systems and web pages, since all programs and web pages receive information from the keyboard and mouse.
 
 ## What materials work with Michi?
 
@@ -37,11 +37,13 @@
 
 Visit our Wiki where you can find the manual 📖: [Wiki](https://github.com/ElectronicCats/michi/wiki)
 
+[![michi-removebg-preview](https://user-images.githubusercontent.com/40640735/217376542-5e614f79-aafc-4ecf-9ac8-8d718f2a0652.png)](https://github.com/ElectronicCats/michi/wiki)
+
 ## Licence
 
-Firmware released under an GNU AGPL v3.0 license. See the LICENSE file for more information.
+Firmware released under an GNU AGPL v3.0 license. See the [LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html) file for more information.
 
-Hardware released under an CERN Open Hardware Licence v1.2. See the LICENSE_HARDWARE file for more information.
+Hardware released under an CERN Open Hardware Licence v1.2. See the [LICENSE_HARDWARE](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) file for more information.
 
 Electronic Cats is a registered trademark, please do not use if you sell these PCBs.
 
