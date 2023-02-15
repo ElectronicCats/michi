@@ -5,7 +5,7 @@
 </a>
 
 
-  Michi is an electronic board designed by Electronic Cats that simulates some configurable keyboard and mouse keys.  The Michi has the feature of being able to connect any material that conducts electricity turning these objects into touch panels. 
+  Michi is an electronic board designed by Electronic Cats that simulates configurable keyboard and mouse keys. It has the feature of being able to connect to any conductive material, turning these objects into touch panels. 
 
   It is an experiment kit for beginners and experts looking to interact between the real world and technology. The Michi can cover the areas of plastic arts, visual arts, music, sports, engineering and even physical rehabilitation.
 
