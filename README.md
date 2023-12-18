@@ -4,6 +4,11 @@
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
 </a>
 
+<a href="https://github.com/ElectronicCats/michi/wiki">
+  <img src="https://github.com/ElectronicCats/flipper-shields/assets/44976441/6aa7f319-3256-442e-a00d-33c8126833ec" width="200" height="104" />
+</a>
+</p>
+
 
   Michi is an electronic board designed by Electronic Cats that simulates configurable keyboard and mouse keys. It has the feature of being able to connect to any conductive material, turning these objects into touch panels. 
 
