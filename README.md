@@ -44,6 +44,26 @@ Visit our Wiki where you can find the manual 📖: [Wiki](https://github.com/Ele
 
 [![michi-removebg-preview](https://user-images.githubusercontent.com/40640735/217376542-5e614f79-aafc-4ecf-9ac8-8d718f2a0652.png)](https://github.com/ElectronicCats/michi/wiki)
 
+## How to contribute <img src="https://electroniccats.com/wp-content/uploads/2018/01/fav.png" height="35"><img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="30">
+ Contributions are welcome! 
+
+Please read the document  [**Contribution Manual**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-contribution-manual.md)  which will show you how to contribute your changes to the project.
+
+✨ Thanks to all our [contributors](https://github.com/ElectronicCats/michi/graphs/contributors)! ✨
+
+See  [**_Electronic Cats CLA_**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-cla.md) for more information.
+
+See the [**community code of conduct**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-community-code-of-conduct.md)   for a vision of the community we want to build and what we expect from it.
+
+
+### Maintainer
+
+Electronic Cats invests time and resources in providing this open-source design design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
+
+<a href="https://github.com/sponsors/ElectronicCats">
+  <img src="https://electroniccats.com/wp-content/uploads/2020/07/Badge_GHS.png" height="104" />
+</a>
+
 ## Licence
 
 Firmware released under an GNU AGPL v3.0 license. See the [LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html) file for more information.
